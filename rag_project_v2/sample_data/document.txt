@@ -1,0 +1,21 @@
+Acme Robotics Inc. Q3 2025 Earnings Summary
+
+Acme Robotics Inc. reported revenue of $42 million for the third quarter of 2025, a 12% increase compared to the same quarter last year. The growth was primarily driven by strong demand for the company's warehouse automation product line, which grew 28% year over year.
+
+Operating expenses for the quarter rose to $30 million, up from $26 million in Q3 2024. The increase was mostly attributable to hiring in the engineering department, where headcount grew by 40 employees during the quarter. Research and development spending specifically totaled $11 million, focused on the company's next-generation robotic arm platform.
+
+Net income for the quarter was $8.4 million, compared to $6.1 million in the prior-year quarter. Diluted earnings per share came in at $0.34, beating analyst consensus estimates of $0.29.
+
+The Board of Directors approved a new stock buyback program authorizing the repurchase of up to $50 million in common shares over the next 18 months. This is in addition to the $20 million remaining under the previous buyback authorization.
+
+Cash and cash equivalents at the end of the quarter stood at $215 million, with no outstanding long-term debt. The company generated $14 million in free cash flow during the quarter.
+
+During the earnings call, CEO Maria Chen stated that the company remains focused on international expansion in 2026, with particular emphasis on entering the European logistics market. She noted that Acme Robotics has already signed a distribution partnership with a major German logistics firm, expected to begin shipping products in Q1 2026.
+
+CFO David Okafor commented that gross margin improved to 58%, up from 54% in the prior-year quarter, driven by manufacturing efficiencies at the company's Ohio production facility. He reiterated full-year revenue guidance of $165 million to $172 million.
+
+The company's warehouse automation segment now accounts for 61% of total revenue, up from 52% a year ago. The remaining revenue comes from the legacy industrial robotics segment, which declined 4% year over year as customers shifted spending toward the newer automation product line.
+
+Acme Robotics also announced the acquisition of a small computer vision startup, SensorSight LLC, for approximately $18 million in cash. The acquisition is expected to close in Q4 2025 and will be integrated into the company's robotic arm perception systems.
+
+The earnings call did not include any discussion of the company's remote work policy, employee benefits changes, executive compensation structure, or any pending litigation. No forward guidance was given regarding dividend payments, as the company has never paid a dividend and did not indicate any plans to begin doing so.

@@ -1,0 +1,23 @@
+[
+  {"question": "What was Acme Robotics' revenue in Q3 2025?", "should_answer": true, "gold_answer_contains": "42 million"},
+  {"question": "What was the net income for the quarter?", "should_answer": true, "gold_answer_contains": "8.4 million"},
+  {"question": "What is the diluted earnings per share?", "should_answer": true, "gold_answer_contains": "0.34"},
+  {"question": "How large is the new stock buyback program?", "should_answer": true, "gold_answer_contains": "50 million"},
+  {"question": "Who is the CEO of Acme Robotics?", "should_answer": true, "gold_answer_contains": "Maria Chen"},
+  {"question": "What did the CFO say about gross margin?", "should_answer": true, "gold_answer_contains": "58%"},
+  {"question": "What company did Acme Robotics acquire?", "should_answer": true, "gold_answer_contains": "SensorSight"},
+  {"question": "What percentage of revenue comes from warehouse automation?", "should_answer": true, "gold_answer_contains": "61%"},
+  {"question": "How much cash does the company have?", "should_answer": true, "gold_answer_contains": "215 million"},
+  {"question": "What is the full-year revenue guidance?", "should_answer": true, "gold_answer_contains": "165"},
+
+  {"question": "What is Acme Robotics' remote work policy?", "should_answer": false, "gold_answer_contains": null},
+  {"question": "How much is the CEO's annual salary?", "should_answer": false, "gold_answer_contains": null},
+  {"question": "Is there any pending litigation against the company?", "should_answer": false, "gold_answer_contains": null},
+  {"question": "What dividend did the company pay this quarter?", "should_answer": false, "gold_answer_contains": null},
+  {"question": "What is the company's plan for employee healthcare benefits?", "should_answer": false, "gold_answer_contains": null},
+  {"question": "Which competitor did Acme Robotics lose market share to?", "should_answer": false, "gold_answer_contains": null},
+  {"question": "What was the weather like during the earnings call?", "should_answer": false, "gold_answer_contains": null},
+  {"question": "What is the company's stance on cryptocurrency payments?", "should_answer": false, "gold_answer_contains": null},
+  {"question": "How many patents did the company file this year?", "should_answer": false, "gold_answer_contains": null},
+  {"question": "What is the CEO's opinion on the upcoming election?", "should_answer": false, "gold_answer_contains": null}
+]

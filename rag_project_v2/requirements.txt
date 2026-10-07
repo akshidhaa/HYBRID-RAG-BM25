@@ -1,0 +1,14 @@
+rank_bm25
+scikit-learn
+numpy
+flask
+python-docx
+pypdf
+python-dotenv
+
+# Optional (Phase 2 upgrade — real neural embeddings instead of TF-IDF/LSA).
+# Comment out if you want to stay on the lightweight default.
+sentence-transformers
+
+# Dev/testing
+pytest
