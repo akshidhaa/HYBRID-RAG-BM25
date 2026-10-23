@@ -3,6 +3,9 @@ This project adds a Confidence-Aware Abstention Layer on top of a hybrid BM25 an
 
 
 WORKFLOW DIAGRAM
+
+<img width="735" height="490" alt="image" src="https://github.com/user-attachments/assets/62fae5bb-4809-42f9-9c64-f823231e9a03" />
+
 <img width="786" height="508" alt="image" src="https://github.com/user-attachments/assets/c7b6872d-7d08-4913-805b-05ef0fd7d68e" />
 
 
